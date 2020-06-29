@@ -1,0 +1,49 @@
+div {display: flex;}
+
+.row{ width:100%; }
+
+
+
+.col-2x{   width: 50%; height: auto;}
+
+.col-3x{ width: 33%; height: auto;}
+
+.col-4x{   width: 25%; height: auto;}
+
+.img-responsive {
+  width: 100%;
+}
+
+.p{
+  text-align: left;
+}
+
+.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
+
+.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+.container {
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle }
+
+.alignleft {
+	float: left;
+	vertical-align: middle
+}
+
+.alignright {
+	float: right;
+	vertical-align: middle
+}
+
+.aligncenter {
+  text-align: center;
+  }
