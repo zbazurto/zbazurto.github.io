@@ -8,9 +8,9 @@
   url = "https://github.com/zbazurto"
   weight = 40
 
-##[[main]]
+[[main]]
   name = "Posts"
-  url = "#posts"
+  url = ""
   weight = 20
 
 [[main]]
@@ -24,8 +24,8 @@
   weight = 10
 
 [[main]]
-  name = "Courses"
-  url = "courses/"
+  name = "Charlas  y entrevistas"
+  url = ""
   weight = 20
 
 [[main]]
